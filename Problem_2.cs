@@ -9,7 +9,7 @@ namespace testApp
     class Program
     {
 
-		static string CheckDuplicates(int a,int b , int c,string testString)
+	static string CheckDuplicates(int a,int b , int c,string testString)
         {
             if (b <=c)
             {
